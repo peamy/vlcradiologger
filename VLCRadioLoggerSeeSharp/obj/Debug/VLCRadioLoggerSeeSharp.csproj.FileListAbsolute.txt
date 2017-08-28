@@ -1,0 +1,5 @@
+D:\Programming\VLC media player radio song logger\VLCRadioLoggerSeeSharp\VLCRadioLoggerSeeSharp\bin\Debug\VLCRadioLoggerSeeSharp.exe.config
+D:\Programming\VLC media player radio song logger\VLCRadioLoggerSeeSharp\VLCRadioLoggerSeeSharp\bin\Debug\VLCRadioLoggerSeeSharp.exe
+D:\Programming\VLC media player radio song logger\VLCRadioLoggerSeeSharp\VLCRadioLoggerSeeSharp\bin\Debug\VLCRadioLoggerSeeSharp.pdb
+D:\Programming\VLC media player radio song logger\VLCRadioLoggerSeeSharp\VLCRadioLoggerSeeSharp\obj\Debug\VLCRadioLoggerSeeSharp.exe
+D:\Programming\VLC media player radio song logger\VLCRadioLoggerSeeSharp\VLCRadioLoggerSeeSharp\obj\Debug\VLCRadioLoggerSeeSharp.pdb
