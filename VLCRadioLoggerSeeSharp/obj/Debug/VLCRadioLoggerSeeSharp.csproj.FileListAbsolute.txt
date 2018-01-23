@@ -3,3 +3,9 @@ D:\Programming\VLC media player radio song logger\VLCRadioLoggerSeeSharp\VLCRadi
 D:\Programming\VLC media player radio song logger\VLCRadioLoggerSeeSharp\VLCRadioLoggerSeeSharp\bin\Debug\VLCRadioLoggerSeeSharp.pdb
 D:\Programming\VLC media player radio song logger\VLCRadioLoggerSeeSharp\VLCRadioLoggerSeeSharp\obj\Debug\VLCRadioLoggerSeeSharp.exe
 D:\Programming\VLC media player radio song logger\VLCRadioLoggerSeeSharp\VLCRadioLoggerSeeSharp\obj\Debug\VLCRadioLoggerSeeSharp.pdb
+C:\Users\Remco\Desktop\VLC Radio Logger updated\vlcradiologger\VLCRadioLoggerSeeSharp\bin\Debug\VLCRadioLoggerSeeSharp.exe.config
+C:\Users\Remco\Desktop\VLC Radio Logger updated\vlcradiologger\VLCRadioLoggerSeeSharp\bin\Debug\VLCRadioLoggerSeeSharp.exe
+C:\Users\Remco\Desktop\VLC Radio Logger updated\vlcradiologger\VLCRadioLoggerSeeSharp\bin\Debug\VLCRadioLoggerSeeSharp.pdb
+C:\Users\Remco\Desktop\VLC Radio Logger updated\vlcradiologger\VLCRadioLoggerSeeSharp\obj\Debug\VLCRadioLoggerSeeSharp.csproj.CoreCompileInputs.cache
+C:\Users\Remco\Desktop\VLC Radio Logger updated\vlcradiologger\VLCRadioLoggerSeeSharp\obj\Debug\VLCRadioLoggerSeeSharp.exe
+C:\Users\Remco\Desktop\VLC Radio Logger updated\vlcradiologger\VLCRadioLoggerSeeSharp\obj\Debug\VLCRadioLoggerSeeSharp.pdb

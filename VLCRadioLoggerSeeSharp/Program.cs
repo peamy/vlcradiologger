@@ -15,8 +15,17 @@ namespace VLCRadioLoggerSeeSharp
     {
         public static String madeByRemco = "This list is generated with the VLC media player radio logger. Made by Peam_ 2017.\n";
         public static String filename = "D:\\Programming\\VLC media player radio song logger\\logs.txt";
+        private static bool skipQuestion = false;
         static void Main(string[] args)
         {            
+            if(args[0] != null)
+            {
+                filename = args[0];
+            }
+            if(args[1]!=null && args[1].Equals("true"))
+            {
+                skipQuestion = true;
+            }
             setFileLocation();
             startProgram();
         }
@@ -24,7 +33,7 @@ namespace VLCRadioLoggerSeeSharp
         public static void setFileLocation()
         {
             bool done = false;
-            while (!done)
+            while (!done && !skipQuestion)
             {           
                 Console.WriteLine("The current path for the output is: " + filename + ".\n Would you like to change this? (y/N)");
                 if (Console.ReadLine().Equals("y"))
@@ -47,6 +56,7 @@ namespace VLCRadioLoggerSeeSharp
 
         public static void startProgram()
         {
+            Console.WriteLine("Saving your logs into " + filename);
             String currentTitle = "";
             while(true)
             {
